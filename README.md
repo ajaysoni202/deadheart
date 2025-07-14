@@ -22,8 +22,13 @@ FILE Download Through A Link, Practices and Learning Purpose, This is Just A Ide
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░     
 ░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░     
                                                       
-                             
-                             
+                                                      
+
+
+
+
+
+
                              DeadHeart is developed strictly for educational and ethical purposes only.
 
 By using this tool, you agree that it shall not be used for any illegal, unethical, or unauthorized activity, including but not limited to hacking, data theft, unauthorized surveillance, or any activity that violates laws, terms of service, or individual privacy.
