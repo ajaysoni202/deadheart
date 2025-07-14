@@ -12,17 +12,19 @@ FILE Download Through A Link, Practices and Learning Purpose, This is Just A Ide
 - Step.2 Open Browser And Type `yourip:5000`
 - Step.3 Http Port Forwarding Using `LocaltoNet`
 - Step.4 Share A Link to Victim
-   __      _        
-  / _|    | |       
- | |_ __ _| | _____ 
- |  _/ _` | |/ / _ \
- | || (_| |   <  __/
- |_| \__,_|_|\_\___|              
-                    
 
 
-
-DeadHeart is developed strictly for educational and ethical purposes only.
+ ░▒▓██████▓▒░       ░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓████████▓▒░      ░▒▓█▓▒░▒▓████████▓▒░░▒▓██████▓▒░  
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░     
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░     
+░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░     
+                                                      
+                             
+                             
+                             DeadHeart is developed strictly for educational and ethical purposes only.
 
 By using this tool, you agree that it shall not be used for any illegal, unethical, or unauthorized activity, including but not limited to hacking, data theft, unauthorized surveillance, or any activity that violates laws, terms of service, or individual privacy.
 
