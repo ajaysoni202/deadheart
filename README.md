@@ -12,17 +12,13 @@ FILE Download Through A Link, Practices and Learning Purpose, This is Just A Ide
 - Step.2 Open Browser And Type `yourip:5000`
 - Step.3 Http Port Forwarding Using `LocaltoNet`
 - Step.4 Share A Link to Victim
-
-
-   ▄████████    ▄████████    ▄█   ▄█▄    ▄████████ 
-  ███    ███   ███    ███   ███ ▄███▀   ███    ███ 
-  ███    █▀    ███    ███   ███▐██▀     ███    █▀  
- ▄███▄▄▄       ███    ███  ▄█████▀     ▄███▄▄▄     
-▀▀███▀▀▀     ▀███████████ ▀▀█████▄    ▀▀███▀▀▀     
-  ███          ███    ███   ███▐██▄     ███    █▄  
-  ███          ███    ███   ███ ▀███▄   ███    ███ 
-  ███          ███    █▀    ███   ▀█▀   ██████████ 
-                            ▀                      
+   __      _        
+  / _|    | |       
+ | |_ __ _| | _____ 
+ |  _/ _` | |/ / _ \
+ | || (_| |   <  __/
+ |_| \__,_|_|\_\___|              
+                    
 
 
 
